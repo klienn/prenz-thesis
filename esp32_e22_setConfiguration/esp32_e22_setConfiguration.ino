@@ -73,7 +73,7 @@ void setup() {
 
   printParameters(configuration);
 
-  configuration.ADDL = 0x66;
+  configuration.ADDL = 0x64;
   configuration.ADDH = 0x14;
 
   configuration.CHAN = 23;
